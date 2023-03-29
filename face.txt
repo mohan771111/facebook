@@ -7,3 +7,5 @@ add story and text
 add puzzule game
 
 diffrent type of class
+
+event system add
