@@ -5,3 +5,5 @@ from USA
 add story and text
 
 add puzzule game
+
+diffrent type of class
